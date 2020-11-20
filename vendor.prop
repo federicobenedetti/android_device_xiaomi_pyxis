@@ -189,9 +189,6 @@ telephony.lteOnCdmaDevice=1
 vendor.hw.fm.init=0
 ro.vendor.fm.use_audio_session=true
 
-# Fwk detect
-ro.vendor.qti.va_aosp.support=1
-
 # Time
 persist.vendor.delta_time.enable=true
 

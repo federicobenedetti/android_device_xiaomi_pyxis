@@ -83,9 +83,6 @@ debug.stagefright.ccodec=1
 debug.stagefright.omx_default_rank.sw-audio=1
 debug.stagefright.omx_default_rank=0
 
-# Face Unlock
-ro.face.moto_unlock_service.cam_id=1
-
 # Wireless display
 debug.sf.latch_unsignaled=1
 persist.debug.wfd.enable=1

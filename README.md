@@ -1,4 +1,4 @@
-Copyright (C) 2020 - Xiaomi SDM-710 Project
+Copyright (C) 2020 - Lineage Project
 
 ## About Device
 
